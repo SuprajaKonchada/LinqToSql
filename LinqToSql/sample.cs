@@ -8,5 +8,9 @@ namespace LinqToSql
 {
     internal class sample
     {
+        public sample()
+        {
+            
+        }
     }
 }
